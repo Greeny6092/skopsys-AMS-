@@ -1,0 +1,11 @@
+
+html,body{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../static/work.jpg);
+  background-size: cover;
+
+
+  background-attachment: fixed;
+}
